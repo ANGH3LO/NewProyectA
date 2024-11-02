@@ -1,1 +1,6 @@
 inicio new proyect
+avance textualizado
+punyos a considerar sovre el nuevo proyecto
+- estudio inteligente del lenguaje
+- avance en el framework
+- nueva modalidad adoptada por el usuario
